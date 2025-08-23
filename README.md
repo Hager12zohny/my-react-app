@@ -1,0 +1,2 @@
+# -Ecommerce-Website-using-React-JS-and-Tailwind-CSS-Cara-s-Clothing
+Cara’s Clothing is a modern e-commerce website built with React and TailwindCSS, designed to make shopping for stylish dresses and tops simple and enjoyable. Users can easily browse, search, and filter products to find exactly what they’re looking for. Each product includes detailed descriptions, ratings, and images, making it easy to explore. 
